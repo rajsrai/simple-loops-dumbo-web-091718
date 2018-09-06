@@ -9,17 +9,6 @@ def loop_iterator(number_of_times)
       end
 end
 
-
-# def loop_iterator(number_of_times)
-#   z = 0
-#   loop do
-#     z+=1
-#     puts "Hello Ruby-007!"
-#     break if z == number_of_times
-#   end
-
-
-
 def times_iterator(number_of_times)
 #   # code your solution here using the "times" keyword
 7.times do
